@@ -1,0 +1,1509 @@
+436 - Powerless Core
+455 - Familiar Mineral
+459 - Hard Shell
+513 - Blue Feather
+515 - Common Metal Fragment
+516 - Powerful Core
+542 - Shining Tooth
+565 - Strange Stem
+590 - Unknown Machine Part
+605 - Quartz Core(Citrine)
+606 - Quartz Core(Bluestin)
+607 - Quartz Core(Pherystin)
+608 - Quartz Core(Aqua)
+609 - Quartz Core(Lapis)
+610 - Quartz Core(Topaz)
+611 - Quartz Core(Forcium)
+612 - Quartz Core(Blue Forcium)
+613 - Quartz Core(Orihalcon)
+614 - Quartz Core(True Orihalcon)
+615 - Material Core(Aramid)
+616 - Material Core(Shadowsteel)
+617 - Material Core(Bluestin)
+618 - Material Core(Titanium)
+619 - Material Core(Shadowtitanium)
+620 - Material Core(Osmium)
+621 - Material Core(Redosmium)
+622 - Material Core(Forcium)
+623 - Material Core(Blue Forcium)
+624 - Material Core(Orihalcon)
+625 - Material Core(True Orihalcon)
+628 - Upgrade Core(Piece)
+629 - Force Core(Piece)
+630 - Upgrade Core(Crystal)
+631 - Force Core(Crystal)
+633 - Plasma Circuit
+634 - Plasma Plug
+635 - Extender Circuit
+676 - Circuit Jewel(LV 1)
+677 - Circuit Jewel(LV 2)
+678 - Circuit Jewel(LV 3)
+679 - Circuit Jewel(LV 4)
+680 - Circuit Jewel(LV 5)
+681 - Circuit Jewel(LV 6)
+755 - Mirror Stone
+756 - Yellow Jewel
+758 - Unknown Circuit
+760 - Silver Jewel
+1200 - Astral Core(Focium)
+1201 - Astral Core(Blue Focium)
+1202 - C.A. Unit - Regard for H.Age
+1203 - Illusion Coral
+1204 - Machinery Head
+1205 - Astral Skull
+1206 - Inferal Ruby
+
+ItemOpt = (128 + No. of Quantity)
+
+__________________________________________
+
+682 - Plate of Honor
+
+ItemOpt = 1
+
+__________________________________________
+
+683 - Flame Disc
+684 - Dark Disc
+685 - Holy Disc
+686 - Air Disc
+687 - Thunder Disc
+688 - Bloody Disc
+689 - Earth Disc
+690 - Aqua Disc
+691 - Soul Disc
+
+ItemOpt:
+Level 1 Disc: (128 + No. of Quantity)
+Level 2 Disc: (256 + No. of Quantity)
+Level 3 Disc: (384 + No. of Quantity)
+Level 4 Disc: (512 + No. of Quantity)
+
+__________________________________________
+
+692 - Shape Cartridge
+
+ItemOpt:
+Sword/Lv 1: (7808 + No. Quantity)
+Armor Set/Lv 1: (7936 + No. Quantity)
+Battle Set/Lv 1: (8064 + No. Quantity)
+Martial Set/Lv 1: (8192 + No. Quantity)
+Artifact/Lv 1: (8320 + No. Quantity)
+
+Sword/Lv 2: (8448 + No. Quantity)
+Armor Set/Lv 2: (8576 + No. Quantity)
+Battle Set/Lv 2: (8704 + No. Quantity)
+Martial Set/Lv 2: (8832 + No. Quantity)
+Artifact/Lv 2: (8960 + No. Quantity)
+
+Sword/Lv 3: (9088 + No. Quantity)
+Armor Set/Lv 3: (9216 + No. Quantity)
+Battle Set/Lv 3: (9344 + No. Quantity)
+Martial Set/Lv 3: (9472 + No. Quantity)
+Artifact/Lv 3: (9600 + No. Quantity)
+
+Sword/Lv 4: (9728 + No. Quantity)
+Armor Set/Lv 4: (9856 + No. Quantity)
+Battle Set/Lv 4: (9984 + No. Quantity)
+Martial Set/Lv 4: (10112 + No. Quantity)
+Artifact/Lv 4: (10213 + No. Quantity)
+
+__________________________________________
+
+478 - Empty Bottle, Sticky Red Liquid or Bubbling Blue Liquid
+
+
+
+
+ItemOpt:
+Empty Bottle: (128 + No. of Quantity)
+Sticky Red Liquid: (256 + No. of Quantity)
+Bubbling Blue Liquid: (384 + No. of Quantity)
+1    Upgrade Core(High)    0    1    0    0    0
+2    Force Core(High)    1    1    0    0    0
+3    HP Potion(LV 1)    14    1    0    0    0
+4    HP Potion(LV 2)    14    1    0    0    0
+5    HP Potion(LV 3)    14    1    0    0    0
+6    MP Potion(LV 1)    14    1    0    0    0
+7    MP Potion(LV 2)    14    1    0    0    0
+8    MP Potion(LV 3)    14    1    0    0    0
+9    Upgrade Core(Low)    0    1    0    0    0
+10    Upgrade Core(Medium)    0    1    0    0    0
+11    SP Potion    14    1    0    0    0
+12    Return Stone    4    1    0    0    0
+13    Money    13    1    0    0    0
+14    Item Box    13    1    0    0    0
+15    Training Orb    5    1    0    0    0
+16    Crude Orb    5    1    0    0    0
+17    Red Orb    5    1    0    0    0
+18    Coraleye Orb    5    1    0    0    0
+19    Citrine Orb    5    1    0    0    0
+20    Bluestin Orb    5    1    0    0    0
+21    Pherystin Orb    5    1    0    0    0
+22    Aqua Orb    5    1    0    0    0
+23    Lapis Orb    5    1    0    0    0
+24    Topaz Orb    5    1    0    0    0
+25    Mithril Orb    5    1    0    0    0
+26    Blue Mithril Orb    5    1    0    0    0
+27    Orihalcon Orb    5    1    0    0    0
+28    True Orihalcon Orb    5    1    0    0    0
+29    Dimensional Orb    5    1    0    0    0
+30    Training Crystal    5    1    0    0    0
+31    Crude Crystal    5    1    0    0    0
+32    Red Crystal    5    1    0    0    0
+33    Coraleye Crystal    5    1    0    0    0
+34    Citrine Crystal    5    1    0    0    0
+35    Bluestin Crystal    5    1    0    0    0
+36    Pherystin Crystal    5    1    0    0    0
+37    Aqua Crystal    5    1    0    0    0
+38    Lapis Crystal    5    1    0    0    0
+39    Topaz Crystal    5    1    0    0    0
+40    Mithril Crystal    5    1    0    0    0
+41    Blue Mithril Crystal    5    1    0    0    0
+42    Orihalcon Crystal    5    1    0    0    0
+43    True Orihalcon Crystal    5    1    0    0    0
+44    Dimensional Crystal    5    1    0    0    0
+45    Training Katana    6    1    0    0    0
+46    Katana    6    1    0    0    0
+47    Iron Katana    6    1    0    0    0
+48    Damascus Katana    6    1    0    0    0
+49    Shadowsteel Katana    6    1    0    0    0
+50    Bluestin Katana    6    1    0    0    0
+51    Titanium Katana    6    1    0    0    0
+52    Shadowtitanium Katana    6    1    0    0    0
+53    Osmium Katana    6    1    0    0    0
+54    Redosmium Katana    6    1    0    0    0
+55    Mithril Katana    6    1    0    0    0
+56    Blue Mithril Katana    6    1    0    0    0
+57    Orihalcon Katana    6    1    0    0    0
+58    True Orihalcon Katana    6    1    0    0    0
+59    Dimensional Katana    6    1    0    0    0
+60    Training Blade    6    1    0    0    0
+61    Blade    6    1    0    0    0
+62    Iron Blade    6    1    0    0    0
+63    Damascus Blade    6    1    0    0    0
+64    Shadowsteel Blade    6    1    0    0    0
+65    Bluestin Blade    6    1    0    0    0
+66    Titanium Blade    6    1    0    0    0
+67    Shadowtitanium Blade    6    1    0    0    0
+68    Osmium Blade    6    1    0    0    0
+69    Redosmium Blade    6    1    0    0    0
+70    Mithril Blade    6    1    0    0    0
+71    Blue Mithril Blade    6    1    0    0    0
+72    Orihalcon Blade    6    1    0    0    0
+73    True Orihalcon Blade    6    1    0    0    0
+74    Dimemsional Blade    6    1    0    0    0
+75    Training Daikatana    7    1    0    0    0
+76    Daikatana    7    1    0    0    0
+77    Iron Daikatana    7    1    0    0    0
+78    Damascus Daikatana    7    1    0    0    0
+79    Shadowsteel Daikatana    7    1    0    0    0
+80    Bluestin Daikatana    7    1    0    0    0
+81    Titanium Daikatana    7    1    0    0    0
+82    Shadowtitanium Daikatana    7    1    0    0    0
+83    Osmium Daikatana    7    1    0    0    0
+84    Redosmium Daikatana    7    1    0    0    0
+85    Mithril Daikatana    7    1    0    0    0
+86    Blue Mithril Daikatana    7    1    0    0    0
+87    Orihalcon Daikatana    7    1    0    0    0
+88    True Orihalcon Daikatana    7    1    0    0    0
+89    Dimensional Daikatana    7    1    0    0    0
+90    Training Great Sword    7    1    0    0    0
+91    Great Sword    7    1    0    0    0
+92    Iron Great Sword    7    1    0    0    0
+93    Damascus Great Sword    7    1    0    0    0
+94    Shadowsteel Great Sword    7    1    0    0    0
+95    Bluestin Great Sword    7    1    0    0    0
+96    Titanium Great Sword    7    1    0    0    0
+97    Shadowtitanium Great Sword    7    1    0    0    0
+98    Osmium Great Sword    7    1    0    0    0
+99    Redosmium Great Sword    7    1    0    0    0
+100    Mithril Great Sword    7    1    0    0    0
+101    Blue Mithril Great Sword    7    1    0    0    0
+102    Orihalcon Great Sword    7    1    0    0    0
+103    True Orihalcon Great Sword    7    1    0    0    0
+104    Dimensional Great Sword    7    1    0    0    0
+105    Training Armoursuit    8    1    0    0    0
+106    Armoursuit    8    1    0    0    0
+107    Reinforced Armoursuit    8    1    0    0    0
+108    Iron Armoursuit    8    1    0    0    0
+109    Shadowsteel Armoursuit    8    1    0    0    0
+110    Bluestin Armoursuit    8    1    0    0    0
+111    Titanium Armoursuit    8    1    0    0    0
+112    Osmium Armoursuit    8    1    0    0    0
+113    Shineguard Plate(WA)    8    1    0    0    0
+114    Shineguard Plate(FS)    8    1    0    0    0
+115    Mithril Plate(WA)    8    1    0    0    0
+116    Mithril Plate(FS)    8    1    0    0    0
+117    Orihalcon Plate(WA)    8    1    0    0    0
+118    Orihalcon Plate(FS)    8    1    0    0    0
+119    Absolute Armoursuit    8    1    0    0    0
+120    Training Battlesuit    8    1    0    0    0
+121    Battlesuit    8    1    0    0    0
+122    Reinforced Battlesuit    8    1    0    0    0
+123    Silk Battlesuit    8    1    0    0    0
+124    Aramid Battlesuit    8    1    0    0    0
+125    Bluestin Battlesuit    8    1    0    0    0
+126    Titanium Battlesuit    8    1    0    0    0
+127    Osmium Battlesuit    8    1    0    0    0
+128    Teragrace Coat(FB)    8    1    0    0    0
+129    Teragrace Coat(FA)    8    1    0    0    0
+130    Mithril Coat(FB)    8    1    0    0    0
+131    Mithril Coat(FA)    8    1    0    0    0
+132    Orihalcon Coat(FB)    8    1    0    0    0
+133    Orihalcon Coat(FA)    8    1    0    0    0
+134    Absolute Battlesuit    8    1    0    0    0
+135    Training Martialsuit    8    1    0    0    0
+136    Martialsuit    8    1    0    0    0
+137    Reinforced Martialsuit    8    1    0    0    0
+138    Silk Martialsuit    8    1    0    0    0
+139    Aramid Martialsuit    8    1    0    0    0
+140    Bluestin Martialsuit    8    1    0    0    0
+141    Titanium Martialsuit    8    1    0    0    0
+142    Osmium Martialsuit    8    1    0    0    0
+143    Mystic Suit(BL)    8    1    0    0    0
+144    Mystic Suit(WI)    8    1    0    0    0
+145    Mithril Suit(BL)    8    1    0    0    0
+146    Mithril Suit(WI)    8    1    0    0    0
+147    Orihalcon Suit(BL)    8    1    0    0    0
+148    Orihalcon Suit(WI)    8    1    0    0    0
+149    Absolute Martialsuit    8    1    0    0    0
+150    Training Armourgloves    9    1    0    0    0
+151    Armourgloves    9    1    0    0    0
+152    Reinforced Armourgloves    9    1    0    0    0
+153    Iron Armourgloves    9    1    0    0    0
+154    Shadowsteel Armourgloves    9    1    0    0    0
+155    Bluestin Armourgloves    9    1    0    0    0
+156    Titanium Armourgloves    9    1    0    0    0
+157    Osmium Armourgloves    9    1    0    0    0
+158    Shineguard Gauntlet(WA)    9    1    0    0    0
+159    Shineguard Gauntlet(FS)    9    1    0    0    0
+160    Mithril Gauntlet(WA)    9    1    0    0    0
+161    Mithril Gauntlet(FS)    9    1    0    0    0
+162    Orihalcon Gauntlet(WA)    9    1    0    0    0
+163    Orihalcon Gauntlet(FS)    9    1    0    0    0
+164    Absolute Armourgloves    9    1    0    0    0
+165    Training Battlegloves    9    1    0    0    0
+166    Battlegloves    9    1    0    0    0
+167    Reinforced Battlegloves    9    1    0    0    0
+168    Silk Battlegloves    9    1    0    0    0
+169    Aramid Battlegloves    9    1    0    0    0
+170    Bluestin Battlegloves    9    1    0    0    0
+171    Titanium Battlegloves    9    1    0    0    0
+172    Osmium Battlegloves    9    1    0    0    0
+173    Teragrace gloves(FB)    9    1    0    0    0
+174    Teragrace gloves(FA)    9    1    0    0    0
+175    Mithril gloves(FB)    9    1    0    0    0
+176    Mithril gloves(FA)    9    1    0    0    0
+177    Orihalcon gloves(FB)    9    1    0    0    0
+178    Orihalcon gloves(FA)    9    1    0    0    0
+179    Absolute Battlegloves    9    1    0    0    0
+180    Training Martialgloves    9    1    0    0    0
+181    Martialgloves    9    1    0    0    0
+182    Reinforced Martialgloves    9    1    0    0    0
+183    Silk Martialgloves    9    1    0    0    0
+184    Aramid Martialgloves    9    1    0    0    0
+185    Bluestin Martialgloves    9    1    0    0    0
+186    Titanium Martialgloves    9    1    0    0    0
+187    Osmium Martialgloves    9    1    0    0    0
+188    Mystic Hands(BL)    9    1    0    0    0
+189    Mystic Hands(WI)    9    1    0    0    0
+190    Mithril Hands(BL)    9    1    0    0    0
+191    Mithril Hands(WI)    9    1    0    0    0
+192    Orihalcon Hands(BL)    9    1    0    0    0
+193    Orihalcon Hands(WI)    9    1    0    0    0
+194    Absolute Martialgloves    9    1    0    0    0
+195    Training Armourboots    10    1    0    0    0
+196    Armourboots    10    1    0    0    0
+197    Reinforced Armourboots    10    1    0    0    0
+198    Iron Armourboots    10    1    0    0    0
+199    Shadowsteel Armourboots    10    1    0    0    0
+200    Bluestin Armourboots    10    1    0    0    0
+201    Titanium Armourboots    10    1    0    0    0
+202    Osmium Armourboots    10    1    0    0    0
+203    Shineguard Greaves(WA)    10    1    0    0    0
+204    Shineguard Greaves(FS)    10    1    0    0    0
+205    Mithril Greaves(WA)    10    1    0    0    0
+206    Mithril Greaves(FS)    10    1    0    0    0
+207    Orihalcon Greaves(WA)    10    1    0    0    0
+208    Orihalcon Greaves(FS)    10    1    0    0    0
+209    Absolute Armourboots    10    1    0    0    0
+210    Training Battleboots    10    1    0    0    0
+211    Battleboots    10    1    0    0    0
+212    Reinforced Battleboots    10    1    0    0    0
+213    Silk Battleboots    10    1    0    0    0
+214    Aramid Battleboots    10    1    0    0    0
+215    Bluestin Battleboots    10    1    0    0    0
+216    Titanium Battleboots    10    1    0    0    0
+217    Osmium Battleboots    10    1    0    0    0
+218    Teragrace boots(FB)    10    1    0    0    0
+219    Teragrace boots(FA)    10    1    0    0    0
+220    Mithril boots(FB)    10    1    0    0    0
+221    Mithril boots(FA)    10    1    0    0    0
+222    Orihalcon boots(FB)    10    1    0    0    0
+223    Orihalcon boots(FA)    10    1    0    0    0
+224    Absolute Battleboots    10    1    0    0    0
+225    Training Martialboots    10    1    0    0    0
+226    Martialboots    10    1    0    0    0
+227    Reinforced Martialboots    10    1    0    0    0
+228    Silk Martialboots    10    1    0    0    0
+229    Aramid Martialboots    10    1    0    0    0
+230    Bluestin Martialboots    10    1    0    0    0
+231    Titanium Martialboots    10    1    0    0    0
+232    Osmium Martialboots    10    1    0    0    0
+233    Mystic Shoes(BL)    10    1    0    0    0
+234    Mystic Shoes(WI)    10    1    0    0    0
+235    Mithril Shoes(BL)    10    1    0    0    0
+236    Mithril Shoes(WI)    10    1    0    0    0
+237    Orihalcon Shoes(BL)    10    1    0    0    0
+238    Orihalcon Shoes(WI)    10    1    0    0    0
+239    Absolute Martialboots    10    1    0    0    0
+240    Training Armourhelm    11    1    0    0    0
+241    Armourhelm    11    1    0    0    0
+242    Reinforced Armourhelm    11    1    0    0    0
+243    Iron Armourhelm    11    1    0    0    0
+244    Shadowsteel Armourhelm    11    1    0    0    0
+245    Bluestin Armourhelm    11    1    0    0    0
+246    Titanium Armourhelm    11    1    0    0    0
+247    Osmium Armourhelm    11    1    0    0    0
+248    Shineguard Visor(WA)    11    1    0    0    0
+249    Shineguard Visor(FS)    11    1    0    0    0
+250    Mithril Visor(WA)    11    1    0    0    0
+251    Mithril Visor(FS)    11    1    0    0    0
+252    Orihalcon Visor(WA)    11    1    0    0    0
+253    Orihalcon Visor(FS)    11    1    0    0    0
+254    Absolute Armourhelm    11    1    0    0    0
+255    Training Battlehelm    11    1    0    0    0
+256    Battlehelm    11    1    0    0    0
+257    Reinforced Battlehelm    11    1    0    0    0
+258    Silk Battlehelm    11    1    0    0    0
+259    Aramid Battlehelm    11    1    0    0    0
+260    Bluestin Battlehelm    11    1    0    0    0
+261    Titanium Battlehelm    11    1    0    0    0
+262    Osmium Battlehelm    11    1    0    0    0
+263    Teragrace Headgear(FB)    11    1    0    0    0
+264    Teragrace Headgear(FA)    11    1    0    0    0
+265    Mithril Headgear(FB)    11    1    0    0    0
+266    Mithril Headgear(FA)    11    1    0    0    0
+267    Orihalcon Headgear(FB)    11    1    0    0    0
+268    Orihalcon Headgear(FA)    11    1    0    0    0
+269    Absolute Battlehelm    11    1    0    0    0
+270    Training Martialhelm    11    1    0    0    0
+271    Martialhelm    11    1    0    0    0
+272    Reinforced Martialhelm    11    1    0    0    0
+273    Silk Martialhelm    11    1    0    0    0
+274    Aramid Martialhelm    11    1    0    0    0
+275    Bluestin Martialhelm    11    1    0    0    0
+276    Titanium Martialhelm    11    1    0    0    0
+277    Osmium Martialhelm    11    1    0    0    0
+278    Mystic Headpiece(BL)    11    1    0    0    0
+279    Mystic Headpiece(WI)    11    1    0    0    0
+280    Mithril Headpiece(BL)    11    1    0    0    0
+281    Mithril Headpiece(WI)    11    1    0    0    0
+282    Orihalcon Headpiece(BL)    11    1    0    0    0
+283    Orihalcon Headpiece(WI)    11    1    0    0    0
+284    Absolute Martialhelm    11    1    0    0    0
+285    Ring of Fighter    15    1    0    0    0
+286    Ring of Fighter +1    15    1    0    0    0
+287    Ring of Fighter +2    15    1    0    0    0
+288    Ring of Fighter +3    15    1    0    0    0
+289    Ring of Fighter +4    15    1    0    0    0
+290    Ring of Fighter +5    15    1    0    0    0
+291    Ring of Fighter +6    15    1    0    0    0
+292    Ring of Fighter +7    15    1    0    0    0
+293    Ring of Sage    15    1    0    0    0
+294    Ring of Sage +1    15    1    0    0    0
+295    Ring of Sage +2    15    1    0    0    0
+296    Ring of Sage +3    15    1    0    0    0
+297    Ring of Sage +4    15    1    0    0    0
+298    Ring of Sage +5    15    1    0    0    0
+299    Ring of Sage +6    15    1    0    0    0
+300    Ring of Sage +7    15    1    0    0    0
+301    Ring of Champion    15    1    0    0    0
+302    Ring of Champion +1    15    1    0    0    0
+303    Ring of Champion +2    15    1    0    0    0
+304    Ring of Champion +3    15    1    0    0    0
+305    Ring of Champion +4    15    1    0    0    0
+306    Ring of Champion +5    15    1    0    0    0
+307    Ring of Champion +6    15    1    0    0    0
+308    Ring of Champion +7    15    1    0    0    0
+309    Critical Ring    15    1    0    0    0
+310    Critical Ring +1    15    1    0    0    0
+311    Critical Ring +2    15    1    0    0    0
+312    Ring of Luck    15    1    0    0    0
+313    Ring of Luck +1    15    1    0    0    0
+314    Ring of Luck +2    15    1    0    0    0
+315    Force Absorb Ring    15    1    0    0    0
+316    Force Absorb Ring +1    15    1    0    0    0
+317    Force Absorb Ring +2    15    1    0    0    0
+318    Life Absorb Ring    15    1    0    0    0
+319    Life Absorb Ring +1    15    1    0    0    0
+320    Life Absorb Ring +2    15    1    0    0    0
+321    Life Absorb Ring +3    15    1    0    0    0
+322    Mana Absorb Ring    15    1    0    0    0
+323    Mana Absorb Ring +1    15    1    0    0    0
+324    Mana Absorb Ring +2    15    1    0    0    0
+325    Mana Absorb Ring +3    15    1    0    0    0
+326    Ring Of Fighter +8    15    1    0    0    0
+327    Ring Of Fighter +9    15    1    0    0    0
+328    Ring Of Fighter +10    15    1    0    0    0
+329    Ring Of Sage +8    15    1    0    0    0
+330    Ring Of Sage +9    15    1    0    0    0
+331    Ring Of Sage +10    15    1    0    0    0
+332    Ring Of Champion +8    15    1    0    0    0
+333    Ring Of Champion +9    15    1    0    0    0
+334    Ring Of Champion +10    15    1    0    0    0
+335    Force Absorb Ring +3    15    1    0    0    0
+336    Force Absorb Ring +4    15    1    0    0    0
+337    Force Absorb Ring +5    15    1    0    0    0
+338    Ring Of Seven Coins    15    1    0    0    0
+339    Ring Of Seven Coins +1    15    1    0    0    0
+340    Ring Of Seven Coins +2    15    1    0    0    0
+341    Ring Of Seven Coins +3    15    1    0    0    0
+342    Ring Of Seven Coins +4    15    1    0    0    0
+343    Ring Of Seven Coins +5    15    1    0    0    0
+344    Ring Of Seven Coins +6    15    1    0    0    0
+345    Ring Of Seven Coins +7    15    1    0    0    0
+346    Adept Ring    15    1    0    0    0
+347    Adept Ring +1    15    1    0    0    0
+348    Adept Ring +2    15    1    0    0    0
+349    Adept Ring +3    15    1    0    0    0
+350    Amulet of Strength    16    1    0    0    0
+351    Power Amulet    16    1    0    0    0
+352    Ogre Power Amulet    16    1    0    0    0
+353    Atlas Amulet    16    1    0    0    0
+354    Amulet of Intelligence    16    1    0    0    0
+355    Smart Amulet    16    1    0    0    0
+356    Genius Amulet    16    1    0    0    0
+357    Enlightenment Amulet    16    1    0    0    0
+358    Amulet of Dexterity    16    1    0    0    0
+359    Fast Amulet    16    1    0    0    0
+360    Rapid Amulet    16    1    0    0    0
+361    Quickness Amulet    16    1    0    0    0
+362    Amulet Of Bless    16    1    0    0    0
+363    Amulet Of Bless +1    16    1    0    0    0
+364    Amulet Of Bless +2    16    1    0    0    0
+365    Amulet Of Bless +3    16    1    0    0    0
+366    Force Regeneration Amulet    16    1    0    0    0
+367    Force Regeneration Amulet +1    16    1    0    0    0
+368    Force Regeneration Amulet +2    16    1    0    0    0
+369    Life Regeneration Amulet    16    1    0    0    0
+370    Life Regeneration Amulet +1    16    1    0    0    0
+371    Life Regeneration Amulet +2    16    1    0    0    0
+372    Mana Regeneration Amulet    16    1    0    0    0
+373    Mana Regeneration Amulet +1    16    1    0    0    0
+374    Mana Regeneration Amulet +2    16    1    0    0    0
+375    Revive Amulet    16    1    0    0    0
+376    Revive Amulet +1    16    1    0    0    0
+377    Amulet Of Guard    16    1    0    0    0
+378    Amulet Of Guard +1    16    1    0    0    0
+379    Amulet Of Guard +2    16    1    0    0    0
+380    Amulet Of Guard +3    16    1    0    0    0
+381    Amulet Of Guard +4    16    1    0    0    0
+382    Amulet Of Guard +5    16    1    0    0    0
+383    Amulet Of Guard +6    16    1    0    0    0
+384    Amulet Of Guard +7    16    1    0    0    0
+385    Amulet Of Guard +8    16    1    0    0    0
+386    Amulet Of Guard +9    16    1    0    0    0
+387    Amulet Of Guard +10    16    1    0    0    0
+388    Force Regeneration Amulet +3    16    1    0    0    0
+389    Force Regeneration Amulet +4    16    1    0    0    0
+390    Force Regeneration Amulet +5    16    1    0    0    0
+391    Force Regeneration Amulet +6    16    1    0    0    0
+392    Force Regeneration Amulet +7    16    1    0    0    0
+393    Amulet Of Seven Coins    16    1    0    0    0
+394    Amulet Of Seven Coins +1    16    1    0    0    0
+395    Amulet Of Seven Coins +2    16    1    0    0    0
+396    Amulet Of Seven Coins +3    16    1    0    0    0
+397    Amulet Of Seven Coins +4    16    1    0    0    0
+398    Amulet Of Seven Coins +5    16    1    0    0    0
+399    Amulet Of Seven Coins +6    16    1    0    0    0
+400    Amulet Of Seven Coins +7    16    1    0    0    0
+401    Amulet Of Pain    16    1    0    0    0
+402    Amulet Of Pain +1    16    1    0    0    0
+403    Amulet Of Pain +2    16    1    0    0    0
+404    Amulet Of Pain +3    16    1    0    0    0
+405    Amulet Of Pain +4    16    1    0    0    0
+406    Amulet Of Pain +5    16    1    0    0    0
+407    Amulet Of Pain +6    16    1    0    0    0
+408    Amulet Of Pain +7    16    1    0    0    0
+409    Epaulette of Guardian    17    1    0    0    0
+410    Epaulette of Guardian +1    17    1    0    0    0
+411    Epaulette of Guardian +2    17    1    0    0    0
+412    Epaulette of Guardian +3    17    1    0    0    0
+413    Epaulette of Guardian +4    17    1    0    0    0
+414    Epaulette of Guardian +5    17    1    0    0    0
+415    Epaulette of Guardian +6    17    1    0    0    0
+416    Epaulette of Guardian +7    17    1    0    0    0
+417    Life Regeneration Epaulette    17    1    0    0    0
+418    Life Regeneration Epaulette +1    17    1    0    0    0
+419    Life Regeneration Epaulette +2    17    1    0    0    0
+420    Mana Regeneration Epaulette    17    1    0    0    0
+421    Mana Regeneration Epaulette +1    17    1    0    0    0
+422    Mana Regeneration Epaulette +2    17    1    0    0    0
+423    Fortune Epaulette    17    1    0    0    0
+424    Fortune Epaulette +1    17    1    0    0    0
+425    Hiding Eapulet    17    1    0    0    0
+426    Epaulette of Fighter +7    17    1    0    0    0
+427    Epaulette of Sage +7    17    1    0    0    0
+428    Epaulette of Fighter +5    17    1    0    0    0
+429    Epaulette of Fighter +6    17    1    0    0    0
+430    Epaulette of Sage +5    17    1    0    0    0
+431    Epaulette of Sage +6    17    1    0    0    0
+432    NightWalkers(Armourset)    17    1    0    0    0
+433    NightWalkers(Battleset)    17    1    0    0    0
+434    NightWalkers(Martialset)    17    1    0    0    0
+435    Epaulette    17    1    0    0    0
+436    Broken CoreS    18    1    0    0    0
+437    Astral Bikecard - Type: Blue    22    1    0    0    0
+438    LatterN    19    1    0    0    0
+439    Astral Bikecard - Type: RW3    22    1    0    0    0
+440    ScrollN    19    1    0    0    0
+441    ParchmentN    19    1    0    0    0
+442    LeatherS    18    1    0    0    0
+443    Sword PieceS    18    1    0    0    0
+444    Sword PieceN    19    1    0    0    0
+445    HornS    18    1    0    0    0
+446    KeyN    19    1    0    0    0
+447    NecklaceS    18    1    0    0    0
+448    BoxS    18    1    0    0    0
+449    ScaleS    18    1    0    0    0
+450    BottleN    19    1    0    0    0
+451    EggS    18    1    0    0    0
+452    ShoeS    18    1    0    0    0
+453    LeafS    18    1    0    0    0
+454    Present BoxN    19    1    0    0    0
+455    MineralS    18    1    0    0    0
+456    FruitS    18    1    0    0    0
+457    ThornS    18    1    0    0    0
+458    AxS    18    1    0    0    0
+459    ShellS    18    1    0    0    0
+460    Red QuartzS    18    1    0    0    0
+461    Crude QuartzS    18    1    0    0    0
+462    Aquq QuartzS    18    1    0    0    0
+463    Broken QuartzS    18    1    0    0    0
+464    Astral Board Card - X Steelblue    22    1    0    0    0
+465    BookN    19    1    0    0    0
+466    Quest Armour GloveS    18    1    0    0    0
+467    Quest Battle GloveS    18    1    0    0    0
+468    Quest Martial GloveS    18    1    0    0    0
+469    Quest Upgrade CoreS    18    1    0    0    0
+470    Quest Force CoreS    18    1    0    0    0
+471    EmblemS    18    1    0    0    0
+472    CobwebS    18    1    0    0    0
+473    Warp CardN    19    1    0    0    0
+474    Quest Armour GloveN    19    1    0    0    0
+475    Quest Battle GloveN    19    1    0    0    0
+476    Quest Martial GloveN    19    1    0    0    0
+477    Astral Board Card - X Yellow    22    1    0    0    0
+478    BottleS    18    1    0    0    0
+479    ScrollS    18    1    0    0    0
+480    Astral Board Card - X3 White    22    1    0    0    0
+481    LeatherN    19    1    0    0    0
+482    Astral Board Card - X2 Blue    22    1    0    0    0
+483    Astral Board Card - X Green    22    1    0    0    0
+484    Aquq QuartzN    19    1    0    0    0
+485    B.I. CertificateN    19    1    0    0    0
+486    D.S. CertificateN    19    1    0    0    0
+487    G.D. CertificateN    19    1    0    0    0
+488    MineralN    19    1    0    0    0
+489    NecklaceN    19    1    0    0    0
+490    ShoeN    19    1    0    0    0
+491    Blue CoreN    19    1    0    0    0
+492    Red CoreN    19    1    0    0    0
+493    Green CoreN    19    1    0    0    0
+494    Yellow CoreN    19    1    0    0    0
+495    Precious CardN    19    1    0    0    0
+496    CircuitN    19    1    0    0    0
+497    Card PieceN    19    1    0    0    0
+498    Magic RelicN    19    1    0    0    0
+499    CaneN    19    1    0    0    0
+500    ShackleN    19    1    0    0    0
+501    FruitN    19    1    0    0    0
+502    BoneN    19    1    0    0    0
+503    EyeballN    19    1    0    0    0
+504    EggN    19    1    0    0    0
+505    BoxN    19    1    0    0    0
+506    FeatherS    18    1    0    0    0
+507    Astral Board Card - X2 Red    22    1    0    0    0
+508    CardS    18    1    0    0    0
+509    SoilS    18    1    0    0    0
+510    LeafN    19    1    0    0    0
+511    MeatS    18    1    0    0    0
+512    ForcepsS    18    1    0    0    0
+513    Feather(B)S    18    1    0    0    0
+514    ShellfishS    18    1    0    0    0
+515    Metallic PieceS    18    1    0    0    0
+516    NucleusS    18    1    0    0    0
+517    Mecha-LegS    18    1    0    0    0
+518    Mecha-HeadS    18    1    0    0    0
+519    Mecha-Big HandS    18    1    0    0    0
+520    Mecha-HandS    18    1    0    0    0
+521    Mecha-HumpS    18    1    0    0    0
+522    Macha-BackS    18    1    0    0    0
+523    Mecha-MouthS    18    1    0    0    0
+524    Mecha-WingS    18    1    0    0    0
+525    Golem CookieN    19    1    0    0    0
+526    Ugly Troll    19    1    0    0    0
+527    Pretty House    19    1    0    0    0
+528    Mecha-BowS    18    1    0    0    0
+529    MechaZard-HandS    18    1    0    0    0
+530    Mecha-TailS    18    1    0    0    0
+531    MechaHealer-HeadS    18    1    0    0    0
+532    OPDollS    18    1    0    0    0
+533    EXDollS    18    1    0    0    0
+534    Mander DollS    18    1    0    0    0
+535    Zard DollS    18    1    0    0    0
+536    Ape DollS    18    1    0    0    0
+537    Ape Archer DollS    18    1    0    0    0
+538    Buffalo DollS    18    1    0    0    0
+539    Bird DollS    18    1    0    0    0
+540    Dog DollS    18    1    0    0    0
+541    Scale(B)S    18    1    0    0    0
+542    ToothS    18    1    0    0    0
+543    D.T.(D Grade/Single)    2    1    0    0    0
+544    D.T.(C Grade/Single)    2    1    0    0    0
+545    D.T.(B Grade/Single)    2    1    0    0    0
+546    D.T.(A Grade/Single)    2    1    0    0    0
+547    D.T.(AA Grade/Single)    2    1    0    0    0
+548    D.T.(AAA Grade/Single)    2    1    0    0    0
+549    D.T.(X Grade/Single)    2    1    0    0    0
+550    D.T.(D Grade/Party)    2    1    0    0    0
+551    D.T.(C Grade/Party)    2    1    0    0    0
+552    D.T.(B Grade/Party)    2    1    0    0    0
+553    D.T.(A Grade/Party)    2    1    0    0    0
+554    D.T.(AA Grade/Party)    2    1    0    0    0
+555    D.T.(AAA Grade/Party)    2    1    0    0    0
+556    D.T.(X Grade/Party)    2    1    0    0    0
+557    Dungeon Doll    20    1    0    0    0
+558    Gate Wqy    2    1    0    0    0
+559    Auto Trap    21    1    0    0    0
+560    Formula Card(Event)    28    1    0    0    0
+561    I am GM    7    1    0    0    0
+562    TailS    18    1    0    0    0
+563    LegS    18    1    0    0    0
+564    BoneS    18    1    0    0    0
+565    Mana ReadS    18    1    0    0    0
+566    BookS    18    1    0    0    0
+567    Black RingN    19    1    0    0    0
+568    Quest ItemN    19    1    0    0    0
+569    ParchmentS    18    1    0    0    0
+570    Red QuartzN    19    1    0    0    0
+571    Crude QuartzN    19    1    0    0    0
+572    FeatherN    19    1    0    0    0
+573    Necklace 2    3    1    0    0    0
+574    Duplicate Ring    19    1    0    0    0
+575    Christmas Tree    18    1    0    0    0
+576    Bike CardS    18    1    0    0    0
+577    StoneS    18    1    0    0    0
+578    Map PartN    19    1    0    0    0
+579    Extract Potion(STR)    14    1    0    0    0
+580    Extract Potion(DEX)    14    1    0    0    0
+581    Extract Potion(INT)    14    1    0    0    0
+582    Force Cord(Low)    1    1    0    0    0
+583    Force Cord(Medium)    1    1    0    0    0
+584    Plasma Coating Kit    24    1    0    0    0
+585    SoilN    19    1    0    0    0
+586    ShellN    19    1    0    0    0
+587    ArrowS    18    1    0    0    0
+588    ArrowN    19    1    0    0    0
+589    Broken QuartzN    19    1    0    0    0
+590    Machine PartS    18    1    0    0    0
+591    Machine PartN    19    1    0    0    0
+592    StoneN    19    1    0    0    0
+593    Metallic PieceN    19    1    0    0    0
+594    CobwebN    19    1    0    0    0
+595    ScaleN    19    1    0    0    0
+596    NucleusN    19    1    0    0    0
+597    Scale(B)N    19    1    0    0    0
+598    ToothN    19    1    0    0    0
+599    GaugeS    18    1    0    0    0
+600    GaugeN    19    1    0    0    0
+601    Epaulette of the DeadN    19    1    0    0    0
+602    Buffalo Doll N    19    1    0    0    0
+603    Feather(B)N    19    1    0    0    0
+604    Sweet Candy    18    1    0    0    0
+605    Quartz Core(Citrine)    18    1    0    0    0
+606    Quartz Core(Bluestin)    18    1    0    0    0
+607    Quartz Core(Pherystin)    18    1    0    0    0
+608    Quartz Core(Aqua)    18    1    0    0    0
+609    Quartz Core(Lapis)    18    1    0    0    0
+610    Quartz Core(Topaz)    18    1    0    0    0
+611    Quartz Core(Mithril)    18    1    0    0    0
+612    Quartz Core(Blue Mithril)    18    1    0    0    0
+613    Quartz Core(Orihalcon)    18    1    0    0    0
+614    Quartz Core(True Orihalcon)    18    1    0    0    0
+615    Material Core(Aramid)    18    1    0    0    0
+616    Material Core(Shadowsteel)    18    1    0    0    0
+617    Material Core(Bluestin)    18    1    0    0    0
+618    Material Core(Titanium)    18    1    0    0    0
+619    Material Core(Shadowtitanium)    18    1    0    0    0
+620    Material Core(Osmium)    18    1    0    0    0
+621    Material Core(Redosmium)    18    1    0    0    0
+622    Material Core(Mithril)    18    1    0    0    0
+623    Material Core(Blue Mithril)    18    1    0    0    0
+624    Material Core(Orihalcon)    18    1    0    0    0
+625    Material Core(True Orihalcon)    18    1    0    0    0
+626    Formula Card    28    1    0    0    0
+627    Formula Card(Instant)    28    1    0    0    0
+628    Upgrade Core(Piece)    18    1    0    0    0
+629    Force Core(Piece)    18    1    0    0    0
+630    Upgrade Core(Crystal)    18    1    0    0    0
+631    Force Core(Crystal)    18    1    0    0    0
+632    Perfect Core    0    1    0    0    0
+633    Plasma Circuit    18    1    0    0    0
+634    Plasma Plug    18    1    0    0    0
+635    Extender Circuit    18    1    0    0    0
+636    Perfect Coating Kit    24    1    0    0    0
+637    Slot Extender(Low)    29    1    0    0    0
+638    Slot Extender(Medium)    29    1    0    0    0
+639    Slot Extender(High)    29    1    0    0    0
+640    Core Alchemic Transmuter(Sword)    30    1    0    0    0
+641    Core Alchemic Transmuter(Armourset)    30    1    0    0    0
+642    Core Alchemic Transmuter(Battleset)    30    1    0    0    0
+643    Core Alchemic Transmuter(Martialset)    30    1    0    0    0
+644    Core Alchemic Transmuter(Artifact)    30    1    0    0    0
+645    Red BottleN    19    1    0    0    0
+646    Goodluck Potion[ALZ](LV 3)    27    1    0    0    0
+647    Goodluck Potion[ALZ](LV 1)    27    1    0    0    0
+648    Fury Potion(LV 1)    14    1    0    0    0
+649    Fury Potion(LV 2)    14    1    0    0    0
+650    Fury Potion(LV 3)    14    1    0    0    0
+651    Party Epaulette    17    1    0    0    0
+652    Greatsword1N    19    1    0    0    0
+653    Halberd1N    19    1    0    0    0
+654    Glory Potion(LV 1)    14    1    0    0    0
+655    Glory Potion(LV 2)    14    1    0    0    0
+656    Glory Potion(LV 3)    14    1    0    0    0
+657    Concentraion Potion(LV 1)    27    1    0    0    0
+658    Reflex Potion(LV 1)    27    1    0    0    0
+659    Vital Potion(LV 1)    27    1    0    0    0
+660    Sharpness Potion(LV 1)    27    1    0    0    0
+661    Manacondense Potion(LV 1)    27    1    0    0    0
+662    Vitalregen Potion(LV 1)    27    1    0    0    0
+663    Forceregen Potion(LV 1)    19    1    0    0    0
+664    Hardness Potion(LV 1)    27    1    0    0    0
+665    Strike Potion(LV 1)    27    1    0    0    0
+666    Critical Potion(LV 1)    19    1    0    0    0
+667    Crushing Potion(LV 1)    19    1    0    0    0
+668    Skill Potion(LV 1)    19    1    0    0    0
+669    Goodluck Potion[ALZ](LV 2)    27    1    0    0    0
+670    Party Epaulette +1    17    1    0    0    0
+671    Party Epaulette +2    17    1    0    0    0
+672    Sword Master Potion    27    1    0    0    0
+673    Magic Master Potion    27    1    0    0    0
+674    Evasion Potion    27    1    0    0    0
+675    C.A. License    31    1    0    0    0
+676    Circuit Jewel(LV 1)    18    1    0    0    0
+677    Circuit Jewel(LV 2)    18    1    0    0    0
+678    Circuit Jewel(LV 3)    18    1    0    0    0
+679    Circuit Jewel(LV 4)    18    1    0    0    0
+680    Circuit Jewel(LV 5)    18    1    0    0    0
+681    Circuit Jewel(LV 6)    18    1    0    0    0
+682    Plate of Honour    19    1    0    0    0
+683    Flame Disc    18    1    0    0    0
+684    Dark Disc    18    1    0    0    0
+685    Holy Disc    18    1    0    0    0
+686    Air Disc    18    1    0    0    0
+687    Thunder Disc    18    1    0    0    0
+688    Bloody Disc    18    1    0    0    0
+689    Earth Disc    18    1    0    0    0
+690    Aqua Disc    18    1    0    0    0
+691    Soul Disc    18    1    0    0    0
+692    Shape Cartridge    18    1    0    0    0
+693    Ring Of Brute    15    1    0    0    0
+694    Ring Of Brute +1    15    1    0    0    0
+695    Ring Of Brute +2    15    1    0    0    0
+696    Ring Of Brute +3    15    1    0    0    0
+697    Ring Of Serenity    15    1    0    0    0
+698    Ring Of Serenity +1    15    1    0    0    0
+699    Ring Of Serenity +2    15    1    0    0    0
+700    Ring Of Serenity +3    15    1    0    0    0
+701    Extortion Ring    15    1    0    0    0
+702    Extortion Ring +1    15    1    0    0    0
+703    Extortion Ring +2    15    1    0    0    0
+704    Extortion Ring +3    15    1    0    0    0
+705    Extortion Ring +4    15    1    0    0    0
+706    Extortion Ring +5    15    1    0    0    0
+707    Adept Amulet    16    1    0    0    0
+708    Adept Amulet +1    16    1    0    0    0
+709    Adept Amulet +2    16    1    0    0    0
+710    Adept Amulet +3    16    1    0    0    0
+711    Vampiric Amulet    16    1    0    0    0
+712    Vampiric Amulet +1    16    1    0    0    0
+713    Vampiric Amulet +2    16    1    0    0    0
+714    Vampiric Amulet +3    16    1    0    0    0
+715    Vampiric Amulet +4    16    1    0    0    0
+716    Vampiric Amulet +5    16    1    0    0    0
+717    Vampiric Amulet +6    16    1    0    0    0
+718    Amulet Of Battler    16    1    0    0    0
+719    Amulet Of Battler +1    16    1    0    0    0
+720    Amulet Of Battler +2    16    1    0    0    0
+721    Amulet Of Battler +3    16    1    0    0    0
+722    Amulet Of Battler +4    16    1    0    0    0
+723    Amulet Of Battler +5    16    1    0    0    0
+724    Amulet Of Battler +6    16    1    0    0    0
+725    Amulet Of Battler +7    16    1    0    0    0
+726    Amulet Of Battler +8    16    1    0    0    0
+727    Amulet Of Battler +9    16    1    0    0    0
+728    Ring of Proof    15    1    0    0    0
+729    Ring of Proof +1    15    1    0    0    0
+730    Ring of Proof +2    15    1    0    0    0
+731    Ring of Proof +3    15    1    0    0    0
+732    Ring of Proof +4    15    1    0    0    0
+733    Ring of Proof +5    15    1    0    0    0
+734    Ring of Proof +6    15    1    0    0    0
+735    Ring of Proof +7    15    1    0    0    0
+736    Amulet of Proof    16    1    0    0    0
+737    Amulet of Proof +1    16    1    0    0    0
+738    Amulet of Proof +2    16    1    0    0    0
+739    Amulet of Proof +3    16    1    0    0    0
+740    Amulet of Proof +4    16    1    0    0    0
+741    Amulet of Proof +5    16    1    0    0    0
+742    Amulet of Proof +6    16    1    0    0    0
+743    Amulet of Proof +7    16    1    0    0    0
+744    Epaulette of Proof    17    1    0    0    0
+745    Epaulette of Proof +1    17    1    0    0    0
+746    Epaulette of Proof +2    17    1    0    0    0
+747    Epaulette of Proof +3    17    1    0    0    0
+748    Epaulette of Proof +4    17    1    0    0    0
+749    Epaulette of Proof +5    17    1    0    0    0
+750    Epaulette of Proof +6    17    1    0    0    0
+751    Epaulette of Proof +7    17    1    0    0    0
+752    Glowing JewelS    18    1    0    0    0
+753    Yellow PowderS    18    1    0    0    0
+754    Red PowderS    18    1    0    0    0
+755    ReflexStoneS    18    1    0    0    0
+756    Yellow JewelS    18    1    0    0    0
+757    Silver JewelS    18    1    0    0    0
+758    CircuitS    18    1    0    0    0
+759    Red LiquidS    18    1    0    0    0
+760    Blue LiquidS    18    1    0    0    0
+761    Epaulette of Fighter +3    17    1    0    0    0
+762    Epaulette of Sage +3    17    1    0    0    0
+763    Epaulette of Fighter +4    17    1    0    0    0
+764    Epaulette of Sage +4    17    1    0    0    0
+765    Curse Resist Potion    27    1    0    0    0
+766    Freezing Oil    27    1    0    0    0
+767    Lightning Oil    27    1    0    0    0
+768    Freezing Resist Potion    27    1    0    0    0
+769    Lightning Resist Potion    27    1    0    0    0
+770    Mass Concentraion Potion    27    1    0    0    0
+771    Mass Reflex Potion    27    1    0    0    0
+772    Mass Sharpness Potion    27    1    0    0    0
+773    Mass Hardness Potion    27    1    0    0    0
+774    Mass Mana Condense Potion    27    1    0    0    0
+775    Mass Vitality Potion    27    1    0    0    0
+776    Mass Vitalregen Potion    27    1    0    0    0
+777    Force Cleaner    18    1    0    0    0
+778    First Core    18    1    0    0    0
+779    Second Core    18    1    0    0    0
+780    VGA Card    18    1    0    0    0
+781    Main Board    18    1    0    0    0
+782    Intel Dual Core Machine    18    1    0    0    0
+783    Chaos Lamp    34    1    0    0    0
+784    ATI Graphic Card    18    1    0    0    0
+785    Bracelet Of Fighter    33    1    0    0    0
+786    Bracelet Of Fighter +1    33    1    0    0    0
+787    Bracelet Of Fighter +2    33    1    0    0    0
+788    Bracelet Of Fighter +3    33    1    0    0    0
+789    Bracelet Of Fighter +4    33    1    0    0    0
+790    Bracelet Of Sage    33    1    0    0    0
+791    Bracelet Of Sage +1    33    1    0    0    0
+792    Bracelet Of Sage +2    33    1    0    0    0
+793    Bracelet Of Sage +3    33    1    0    0    0
+794    Bracelet Of Sage +4    33    1    0    0    0
+795    Extortion Bracelet    33    1    0    0    0
+796    Extortion Bracelet +1    33    1    0    0    0
+797    Extortion Bracelet +2    33    1    0    0    0
+798    Extortion Bracelet +3    33    1    0    0    0
+799    Extortion Bracelet +4    33    1    0    0    0
+800    Bracelet Of Seven Coins    33    1    0    0    0
+801    Bracelet Of Seven Coins +1    33    1    0    0    0
+802    Bracelet Of Seven Coins +2    33    1    0    0    0
+803    Bracelet Of Seven Coins +3    33    1    0    0    0
+804    Bracelet Of Seven Coins +4    33    1    0    0    0
+805    Earring Of Guard    32    1    0    0    0
+806    Earring Of Guard +1    32    1    0    0    0
+807    Earring Of Guard +2    32    1    0    0    0
+808    Earring Of Guard +3    32    1    0    0    0
+809    Earring Of Guard +4    32    1    0    0    0
+810    Force Regeneration Earring    32    1    0    0    0
+811    Force Regeneration Earring +1    32    1    0    0    0
+812    Force Regeneration Earring +2    32    1    0    0    0
+813    Force Regeneration Earring +3    32    1    0    0    0
+814    Force Regeneration Earring +4    32    1    0    0    0
+815    Vampiric Earring    32    1    0    0    0
+816    Vampiric Earring +1    32    1    0    0    0
+817    Vampiric Earring +2    32    1    0    0    0
+818    Vampiric Earring +3    32    1    0    0    0
+819    Vampiric Earring +4    32    1    0    0    0
+820    Earring Of Seven Coins    32    1    0    0    0
+821    Earring Of Seven Coins +1    32    1    0    0    0
+822    Earring Of Seven Coins +2    32    1    0    0    0
+823    Earring Of Seven Coins +3    32    1    0    0    0
+824    Earring Of Seven Coins +4    32    1    0    0    0
+825    Bracelet Of Brute    33    1    0    0    0
+826    Bracelet Of Brute +1    33    1    0    0    0
+827    Bracelet Of Brute +2    33    1    0    0    0
+828    Bracelet Of Serenity    33    1    0    0    0
+829    Bracelet Of Serenity +1    33    1    0    0    0
+830    Bracelet Of Serenity +2    33    1    0    0    0
+831    Life Absorb Bracelet    33    1    0    0    0
+832    Life Absorb Bracelet +1    33    1    0    0    0
+833    Life Absorb Bracelet +2    33    1    0    0    0
+834    Mana Absorb Bracelet    33    1    0    0    0
+835    Mana Absorb Bracelet +1    33    1    0    0    0
+836    Mana Absorb Bracelet +2    33    1    0    0    0
+837    Protection Earring    32    1    0    0    0
+838    Protection Earring +1    32    1    0    0    0
+839    Protection Earring +2    32    1    0    0    0
+840    Vital Earring    32    1    0    0    0
+841    Vital Earring +1    32    1    0    0    0
+842    Vital Earring +2    32    1    0    0    0
+843    Evasion Earring    32    1    0    0    0
+844    Evasion Earring +1    32    1    0    0    0
+845    Evasion Earring +2    32    1    0    0    0
+846    I am Reporter    7    1    0    0    0
+847    Broken Sword(B)N    19    1    0    0    0
+848    Concentraion Potion(LV 2)    27    1    0    0    0
+849    Reflex Potion(LV 2)    27    1    0    0    0
+850    Vital Potion(LV 2)    27    1    0    0    0
+851    Sharpness Potion(LV 2)    27    1    0    0    0
+852    Manacondense Potion(LV 2)    27    1    0    0    0
+853    Vitalregen Potion(LV 2)    27    1    0    0    0
+854    Honourable Earring Of Guard    32    1    0    0    0
+855    Hardness Potion(LV 2)    27    1    0    0    0
+856    Strike Potion(LV 2)    27    1    0    0    0
+857    Honourable Extortion Bracelet    33    1    0    0    0
+858    Crushing Potion(LV 2)    27    1    0    0    0
+859    Skill Potion(LV 2)    27    1    0    0    0
+860    Concentraion Potion(LV 3)    27    1    0    0    0
+861    Reflex Potion(LV 3)    27    1    0    0    0
+862    Vital Potion(LV 3)    27    1    0    0    0
+863    Sharpness Potion(LV 3)    27    1    0    0    0
+864    Manacondense Potion(LV 3)    27    1    0    0    0
+865    Vitalregen Potion(LV 3)    27    1    0    0    0
+866    Forceregen Potion(LV 3)    27    1    0    0    0
+867    Hardness Potion(LV 3)    27    1    0    0    0
+868    Strike Potion(LV 3)    27    1    0    0    0
+869    Critical Potion(LV 3)    27    1    0    0    0
+870    Crushing Potion(LV 3)    27    1    0    0    0
+871    Skill Potion(LV 3)    27    1    0    0    0
+872    Guild Emblem Frame Type-A Red    50    1    0    0    0
+873    Guild Emblem Frame Type-A Violet    50    1    0    0    0
+874    Guild Emblem Frame Type-A Blue    50    1    0    0    0
+875    Guild Emblem Frame Type-A P.Green    50    1    0    0    0
+876    Guild Emblem Frame Type-A Y.Green    50    1    0    0    0
+877    Guild Emblem Frame Type-A SkyBlue    50    1    0    0    0
+878    Guild Emblem Frame Type-A Orange    50    1    0    0    0
+879    Guild Emblem Frame Type-A Yellow    50    1    0    0    0
+880    Guild Emblem Frame Type-A Lemon    50    1    0    0    0
+881    Guild Emblem Frame Type-A DarkRed    50    1    0    0    0
+882    Guild Emblem Symbol-Skeleton    50    1    0    0    0
+883    Guild Emblem Symbol-Rose    50    1    0    0    0
+884    Guild Emblem Symbol-Moon    50    1    0    0    0
+885    Guild Emblem Symbol-CrossSword    50    1    0    0    0
+886    Guild Emblem Symbol-Crown    50    1    0    0    0
+887    Guild Emblem Symbol-Shield    50    1    0    0    0
+888    Guild Emblem Symbol-Dragon    50    1    0    0    0
+889    Guild Emblem Symbol-Eagle    50    1    0    0    0
+890    Guild Emblem Symbol-Unicorn    50    1    0    0    0
+891    [Costume]Wealthy Party Epaulette    17    1    0    0    0
+892    NightWalkers(Armour) R    17    1    0    0    0
+893    NightWalkers(Battle) R    17    1    0    0    0
+894    NightWalkers(Martial)  R    17    1    0    0    0
+895    Social Effect Kit-Firecracker of Heil    52    1    0    0    0
+896    Social Effect Kit-Sample Emblem    37    1    0    0    0
+897    Social Effect Kit-Sample Logo    36    1    0    0    0
+898    Social Effect Kit4    36    1    0    0    0
+899    Lost Amulet    18    1    0    0    0
+900    Advisor    7    1    0    0    0
+901    Change Kit(Hair Style) - Novice    44    1    0    0    0
+902    Change Kit(Hair Style) - Foetree    44    1    0    0    0
+903    Change Kit(Hair Style) - Season    44    1    0    0    0
+904    Change Kit(Colour) - Normal    44    1    0    0    0
+905    Change Kit(Colour) - Premium    44    1    0    0    0
+906    Change Kit(Face) - Novice    44    1    0    0    0
+907    Change Kit(Face) - Premium    44    1    0    0    0
+908    Change Kit - RESERVED1    44    1    0    0    0
+909    Change Kit - RESERVED2    44    1    0    0    0
+910    Change Kit - RESERVED3    44    1    0    0    0
+911    Rename Card    45    1    0    0    0
+912    Core Enhancer(Low)    35    1    0    0    0
+913    Core Enhancer(Midium)    35    1    0    0    0
+914    Core Enhancer(High)    35    1    0    0    0
+915    Blessing Bead - Warehouse    38    1    0    0    0
+916    Blessing Bead - EXP(10%)    38    1    0    0    0
+917    Blessing Bead - EXP(25%)    38    1    0    0    0
+918    Blessing Bead - Skill EXP(10%)    38    1    0    0    0
+919    Blessing Bead - Skill EXP(25%)    38    1    0    0    0
+920    Blessing Bead - Bomb Alz    38    1    0    0    0
+921    Blessing Bead - RESERVED5    38    1    0    0    0
+922    GolemCookieS    18    1    0    0    0
+923    not used    28    1    0    0    0
+924    not used    28    1    0    0    0
+925    not used    18    1    0    0    0
+926    not used    18    1    0    0    0
+927    not used    18    1    0    0    0
+928    not used    18    1    0    0    0
+929    not used    18    1    0    0    0
+930    not used    18    1    0    0    0
+931    not used    34    1    0    0    0
+932    not used    34    1    0    0    0
+933    not used    34    1    0    0    0
+934    [Costume]MoonWalker(Armour)    17    1    0    0    0
+935    [Costume]MoonWalker(Battle)    17    1    0    0    0
+936    [Costume]MoonWalker(Martial)    17    1    0    0    0
+937    Astral Board Card - Zero Black    22    1    0    0    0
+938    Astral Board Card - Zero Silver    22    1    0    0    0
+939    Odd Circle    42    1    0    0    0
+940    Resurrection Portion    42    1    0    0    0
+941    Cure Portion    43    1    0    0    0
+942    Cure Portion    43    1    0    0    0
+943    Remote Shop Card    46    1    0    0    0
+944    Return Core    39    1    0    0    0
+945    Epaulette of the Dead2N    19    1    0    0    0
+946    Little Jack    51    1    0    0    0
+947    Epaulette of Disciple    17    1    0    0    0
+948    Sample Orb(Lv10)    5    1    0    0    0
+949    Sample Crystal(Lv10)    5    1    0    0    0
+950    Sample Katana(Lv10)    6    1    0    0    0
+951    Sample Blade(Lv10)    6    1    0    0    0
+952    Sample Daikatana(Lv10)    7    1    0    0    0
+953    Sample Great Sword(Lv10)    7    1    0    0    0
+954    Sample Armoursuit(Lv10)    8    1    0    0    0
+955    Sample Battlesuit(Lv10)    8    1    0    0    0
+956    Sample Martialsuit(Lv10)    8    1    0    0    0
+957    Sample Armourgloves(Lv10)    9    1    0    0    0
+958    Sample Battlegloves(Lv10)    9    1    0    0    0
+959    Sample Martialgloves(Lv10)    9    1    0    0    0
+960    Sample Armourboots(Lv10)    10    1    0    0    0
+961    Sample Battleboots(Lv10)    10    1    0    0    0
+962    Sample Martialboots(Lv10)    10    1    0    0    0
+963    Sample Armourhelm(Lv10)    11    1    0    0    0
+964    Sample Battlehelm(Lv10)    11    1    0    0    0
+965    Sample Martialhelm(Lv10)    11    1    0    0    0
+966    Sample Orb(Lv30)    5    1    0    0    0
+967    Sample Crystal(Lv30)    5    1    0    0    0
+968    Sample Katana(Lv30)    6    1    0    0    0
+969    Sample Blade(Lv30)    6    1    0    0    0
+970    Sample Daikatana(Lv30)    7    1    0    0    0
+971    Sample Great Sword(Lv30)    7    1    0    0    0
+972    Sample Armoursuit(Lv30)    8    1    0    0    0
+973    Sample Battlesuit(Lv30)    8    1    0    0    0
+974    Sample Martialsuit(Lv30)    8    1    0    0    0
+975    Sample Armourgloves(Lv30)    9    1    0    0    0
+976    Sample Battlegloves(Lv30)    9    1    0    0    0
+977    Sample Martialgloves(Lv30)    9    1    0    0    0
+978    Sample Armourboots(Lv30)    10    1    0    0    0
+979    Sample Battleboots(Lv30)    10    1    0    0    0
+980    Sample Martialboots(Lv30)    10    1    0    0    0
+981    Sample Armourhelm(Lv30)    11    1    0    0    0
+982    Sample Battlehelm(Lv30)    11    1    0    0    0
+983    Sample Martialhelm(Lv30)    11    1    0    0    0
+984    Sample Orb(Lv50)    5    1    0    0    0
+985    Sample Crystal(Lv50)    5    1    0    0    0
+986    Sample Katana(Lv50)    6    1    0    0    0
+987    Sample Blade(Lv50)    6    1    0    0    0
+988    Sample Daikatana(Lv50)    7    1    0    0    0
+989    Sample Great Sword(Lv50)    7    1    0    0    0
+990    Sample Armoursuit(Lv50)    8    1    0    0    0
+991    Sample Battlesuit(Lv50)    8    1    0    0    0
+992    Sample Martialsuit(Lv50)    8    1    0    0    0
+993    Sample Armourgloves(Lv50)    9    1    0    0    0
+994    Sample Battlegloves(Lv50)    9    1    0    0    0
+995    Sample Martialgloves(Lv50)    9    1    0    0    0
+996    Sample Armourboots(Lv50)    10    1    0    0    0
+997    Sample Battleboots(Lv50)    10    1    0    0    0
+998    Sample Martialboots(Lv50)    10    1    0    0    0
+999    Sample Armourhelm(Lv50)    11    1    0    0    0
+1000    Sample Battlehelm(Lv50)    11    1    0    0    0
+1001    Sample Martialhelm(Lv50)    11    1    0    0    0
+1002    Epaulette of Vampire R    17    1    0    0    0
+1003    Epaulette of Halloween R    49    1    0    0    0
+1004    Little Jack    34    1    0    0    0
+1005    Funny Little Jack - Halloween Pack.    34    1    0    0    0
+1006    Funny Little Jack - Type A    34    1    0    0    0
+1007    Funny Little Jack - Type B    34    1    0    0    0
+1008    Funny Little Jack - Type C    34    1    0    0    0
+1009    Halloween Life Candy(LV3)    14    1    0    0    0
+1010    Halloween Mana Candy(LV3)    14    1    0    0    0
+1011    Halloween Gift Ticket    18    1    0    0    0
+1012    Halloween Trick Ticket    19    1    0    0    0
+1013    [Costume]Halloween - Pumpkin Helmet    54    1    0    0    0
+1014    [Costume]Halloween - Type A    54    1    0    0    0
+1015    [Costume]Halloween - Type B    54    1    0    0    0
+1016    [Costume]Halloween - Type C    54    1    0    0    0
+1017    [Costume]Funny Halloween - Type A    54    1    0    0    0
+1018    [Costume]Funny Halloween - Type B    54    1    0    0    0
+1019    [Costume]Funny Halloween - Type C    54    1    0    0    0
+1020    Avatar - Pumpkin Helmet    11    1    0    0    0
+1021    Anima Lune - Garlie    51    1    0    0    0
+1022    Anima Lune - Red Garlie    51    1    0    0    0
+1023    Anima Lune - Giant Beetle    51    1    0    0    0
+1024    Anima Lune - Nipperlug    51    1    0    0    0
+1025    Anima Lune - Rabbithorn    51    1    0    0    0
+1026    Anima Lune - Troglo    51    1    0    0    0
+1027    Anima Lune - Troglo Warrior    51    1    0    0    0
+1028    Anima Lune - Elder Troglo    51    1    0    0    0
+1029    Anima Lune - Mantis    51    1    0    0    0
+1030    Anima Lune - Dire Boar    51    1    0    0    0
+1031    Anima Lune - Mummy    51    1    0    0    0
+1032    Anima Lune - Crag Turtle    51    1    0    0    0
+1033    Anima Lune - Armaku    51    1    0    0    0
+1034    NightWalkers(Armour)    17    1    0    0    0
+1035    NightWalkers(Battle)    17    1    0    0    0
+1036    NightWalkers(Martial)    17    1    0    0    0
+1037    [Costume]Vampire Suit    17    1    0    0    0
+1038    [Costume]Halloween Dress    49    1    0    0    0
+1039    [Costume]NightWalker(Armour)    17    1    0    0    0
+1040    [Costume]NightWalker(Battle)    17    1    0    0    0
+1041    [Costume]NightWalkers(Martial)    17    1    0    0    0
+1042    Gold Coin(10,000 Alz)    18    1    0    0    0
+1043    Silver Coin(5,000 Alz)    18    1    0    0    0
+1044    Copper Coin(1,000 Alz)    18    1    0    0    0
+1045    Anima Lune - Little Pery    51    1    0    0    0
+1046    Anima Lune - Golem Jr.    51    1    0    0    0
+1047    Anima Lune - Little Gry    51    1    0    0    0
+1048    Anima Lune - Cuty Lai    51    1    0    0    0
+1049    Anima Lune - Cuty Tai    51    1    0    0    0
+1050    Anima Lune - Real Panda    51    1    0    0    0
+1051    Anima Lune - Fancy Zard    51    1    0    0    0
+1052    Anima Lune - Gentle Parrot    51    1    0    0    0
+1053    Anima Lune - Peng    51    1    0    0    0
+1054    Anima Lune - Pinky    51    1    0    0    0
+1055    Anima Lune - Rudolph    51    1    0    0    0
+1056    [Costume]Epaulette of Freed    17    1    0    0    0
+1057    [Costume]Epaulette of Rin    17    1    0    0    0
+1058    [Costume]Epaulette of Skaild    17    1    0    0    0
+1059    [Costume]Epaulette of Mystic Blade    17    1    0    0    0
+1060    [Costume]Epaulette of Yuan    17    1    0    0    0
+1061    [Costume]Epaulette of Santa     17    1    0    0    0
+1062    [Costume]Epaulette of Cutie Santa    17    1    0    0    0
+1063    [Costume]Snow Ice - Orb/Crystal    54    1    0    0    0
+1064    [Costume]Snow Ice - Katana/Daikatana    54    1    0    0    0
+1065    [Costume]Snow Ice - Blade/Greatsword    54    1    0    0    0
+1066    [Costume]Snow Star - Orb/Crystal    54    1    0    0    0
+1067    [Costume]Snow Star - Katana/Daikatana    54    1    0    0    0
+1068    [Costume]Snow Star - Blade/Greatsword    54    1    0    0    0
+1069    Antler and Red Nose    11    1    0    0    0
+1070    Antler    11    1    0    0    0
+1071    Red Nose    11    1    0    0    0
+1072    Winter Cap    12    1    0    0    0
+1073    Earmuff    11    1    0    0    0
+1074    X Mask    11    1    0    0    0
+1075    Skeleton Mask    11    1    0    0    0
+1076    Santa  Hood    12    1    0    0    0
+1077    Cutie Santa  Hood    12    1    0    0    0
+1078    [Costume]Antler and Red Nose    54    1    0    0    0
+1079    [Costume]Antler    54    1    0    0    0
+1080    [Costume]Red Nose    54    1    0    0    0
+1081    [Costume]Winter Cap    54    1    0    0    0
+1082    [Costume]Earmuff    54    1    0    0    0
+1083    [Costume]X Mask    54    1    0    0    0
+1084    [Costume]Skeleton Mask    54    1    0    0    0
+1085    [Costume]Santa  Hood    54    1    0    0    0
+1086    [Costume]Cutie Santa  Hood    54    1    0    0    0
+1087    [Costume]Santa Coat    54    1    0    0    0
+1088    [Costume]Cutie Santa Coat    54    1    0    0    0
+1089    [Costume]Suit of Wealthy's Party    54    1    0    0    0
+1090    [Costume]MoonWalkers(Armour)    54    1    0    0    0
+1091    [Costume]MoonWalkers(Battle)    54    1    0    0    0
+1092    [Costume]MoonWalkers(Martial)    54    1    0    0    0
+1093    [Costume]Suit of Vampire    54    1    0    0    0
+1094    [Costume]NightWalkers(Armour)    54    1    0    0    0
+1095    [Costume]NightWalkers(Battle)    54    1    0    0    0
+1096    [Costume]NightWalkers(Martial)    54    1    0    0    0
+1097    [Costume]Suit of Freed    54    1    0    0    0
+1098    [Costume]Suit of Rin    54    1    0    0    0
+1099    [Costume]Suit of Skaild    54    1    0    0    0
+1100    [Costume]Suit of Mystic Blade    54    1    0    0    0
+1101    [Costume]Suit of Yuan    54    1    0    0    0
+1102    [Costume]Halloween Dress    54    1    0    0    0
+1103    Love Letter    18    1    0    0    0
+1104    Single Diary    18    1    0    0    0
+1105    Couple elimination trophy    18    1    0    0    0
+1106    Single Diary    18    1    0    0    0
+1107    Bad Couple    28    1    0    0    0
+1108    Sad Single    28    1    0    0    0
+1109    Bad Couple(Collect)    28    1    0    0    0
+1110    Sad Single(Collect)    28    1    0    0    0
+1111    Bad Couple(Divide)    28    1    0    0    0
+1112    Sad Single(Divide)    28    1    0    0    0
+1113    Present box Formula Card(Couple)    28    1    0    0    0
+1114    Present box Formula Card(Single)    28    1    0    0    0
+1115    Snow Star HP Portion    14    1    0    0    0
+1116    Snow Ice MP Portion    14    1    0    0    0
+1117    Christmas present box    34    1    0    0    0
+1118    Christmas present box    34    1    0    0    0
+1119    Freeze Santa    19    1    0    0    0
+1120    Stomp Santa    19    1    0    0    0
+1121    Strike Santa    19    1    0    0    0
+1122    Walking Santa    19    1    0    0    0
+1123    Chase Santa    19    1    0    0    0
+1124    Ouch! Santa    19    1    0    0    0
+1125    Christmas Tree    19    1    0    0    0
+1126    Little House    19    1    0    0    0
+1127    Single Snowman    19    1    0    0    0
+1128    Couple Snowman    19    1    0    0    0
+1129    Red-nosed reindeer Rudolph    19    1    0    0    0
+1130    Christmas Tree(Fancy)    19    1    0    0    0
+1131    Freeze Santa(Fancy)    19    1    0    0    0
+1132    Stomp Santa(Fancy)    19    1    0    0    0
+1133    Strike Santa(Fancy)    19    1    0    0    0
+1134    Walking Santa(Fancy)    19    1    0    0    0
+1135    Chase Santa(Fancy)    19    1    0    0    0
+1136    Ouch! Santa(Fancy)    19    1    0    0    0
+1137    Little House(Fancy)    19    1    0    0    0
+1138    Dialogue Bubble - Merry Christmas    55    1    0    0    0
+1139    ATI Graphic Card    18    1    0    0    0
+1140    Gem    19    1    0    0    0
+1141    Helmet    19    1    0    0    0
+1142    Fire    19    1    0    0    0
+1143    not used    54    1    0    0    0
+1144    not used    54    1    0    0    0
+1145    not used    54    1    0    0    0
+1146    [Costume]Japanese gala dress    54    1    0    0    0
+1147    [Costume]Epaulette of Japanese gala dress     17    1    0    0    0
+1148    not used    18    1    0    0    0
+1149    not used    18    1    0    0    0
+1150    not used    34    1    0    0    0
+1151    not used    16    1    0    0    0
+1152    not used    16    1    0    0    0
+1153    not used    16    1    0    0    0
+1154    not used    28    1    0    0    0
+1155    not used    28    1    0    0    0
+1156    not used    28    1    0    0    0
+1157    Japanese traditional gala headdress    11    1    0    0    0
+1158    [Costume]Japanese traditional gala headdress    54    1    0    0    0
+1159    Mithril Cube(Orb)    34    1    0    0    0
+1160    Mithril Cube(Crystal)    34    1    0    0    0
+1161    Mithril Cube(Katana)    34    1    0    0    0
+1162    Mithril Cube(Blade)    34    1    0    0    0
+1163    Mithril Cube(Daikatana)    34    1    0    0    0
+1164    Mithril Cube(Greatsword)    34    1    0    0    0
+1165    Mithril Cube(Plate(WA))    34    1    0    0    0
+1166    Mithril Cube(Plate(FS))    34    1    0    0    0
+1167    Mithril Cube(Coat(FB))    34    1    0    0    0
+1168    Mithril Cube(Coat(FA))    34    1    0    0    0
+1169    Mithril Cube(Suit(BL))    34    1    0    0    0
+1170    Mithril Cube(Suit(WI))    34    1    0    0    0
+1171    Mithril Cube(Gauntlet(WA))    34    1    0    0    0
+1172    Mithril Cube(Gauntlet(FS))    34    1    0    0    0
+1173    Mithril Cube(Gloves(FB))    34    1    0    0    0
+1174    Mithril Cube(Gloves(FA))    34    1    0    0    0
+1175    Mithril Cube(Hands(BL))    34    1    0    0    0
+1176    Mithril Cube(Hands(WI))    34    1    0    0    0
+1177    Formula Card(Mithril)    28    1    0    0    0
+1178    Formula Card(Mithril)    28    1    0    0    0
+1179    Formula Card(Mithril/Slot)    28    1    0    0    0
+1180    Formula Card(Mithril/Slot)    28    1    0    0    0
+1181    Key(R)N    19    1    0    0    0
+1182    Key(G)N    19    1    0    0    0
+1183    Key(B)N    19    1    0    0    0
+1184    Gold KeyN    19    1    0    0    0
+1185    MusterN    19    1    0    0    0
+1186    G_Sword2N    19    1    0    0    0
+1187    Purify Epaulette    17    1    0    0    0
+1188    Mithril Cube(Greaves(WA))    34    1    0    0    0
+1189    Mithril Cube(Greaves(FS))    34    1    0    0    0
+1190    Mithril Cube(Boots(FB))    34    1    0    0    0
+1191    Mithril Cube(Boots(FA))    34    1    0    0    0
+1192    Mithril Cube(Shoes(BL))    34    1    0    0    0
+1193    Mithril Cube(Shoes(WI))    34    1    0    0    0
+1194    Mithril Cube(Visor(WA))    34    1    0    0    0
+1195    Mithril Cube(Visor(FS))    34    1    0    0    0
+1196    Mithril Cube(Headgear(FB))    34    1    0    0    0
+1197    Mithril Cube(Headgear(FA))    34    1    0    0    0
+1198    Mithril Cube(Headpiece(BL))    34    1    0    0    0
+1199    Mithril Cube(Headpiece(WI))    34    1    0    0    0
+1200    Astral Core(Mithril)    18    1    0    0    0
+1201    Astral Core(Blue Mithril)    18    1    0    0    0
+1202    C.A. Unit - Regard for H.Age    18    1    0    0    0
+1203    Illusion Coral    18    1    0    0    0
+1204    Machinery Head    18    1    0    0    0
+1205    Astral Skull    18    1    0    0    0
+1206    Infernal Ruby    18    1    0    0    0
+1207    Formula Card(Cartridge Change)    28    1    0    0    0
+1208    Epaulette of Guardian +8    17    1    0    0    0
+1209    Epaulette of Fighter +8    17    1    0    0    0
+1210    Epaulette of Sage +8    17    1    0    0    0
+1211    NationSelect1N    19    1    0    0    0
+1212    NationSelect2N    19    1    0    0    0
+1213    Copy Ring2    19    1    0    0    0
+1214    Upgrade Core(Highest)    0    1    0    0    0
+1215    Force Core(Highest)    1    1    0    0    0
+1216    Slot Extender(Highest)    29    1    0    0    0
+1217    Cat Stone    19    1    0    0    0
+1218    C.A. Unit - Desire H.Age    19    1    0    0    0
+1219    Earring of Bless    32    1    0    0    0
+1220    Earring of Bless +1    32    1    0    0    0
+1221    Adept Bracelet    33    1    0    0    0
+1222    Adept Bracelet +1    33    1    0    0    0
+1223    [Costume]Chipao Epaulette    17    1    0    0    0
+1224    [Costume]Korean Gala Dress Epaulette    17    1    0    0    0
+1225    [Costume]Goguryeo Epaulettee    17    1    0    0    0
+1226    not used    18    1    0    0    0
+1227    Spicy Rice-cake soup    14    1    0    0    0
+1228    Full Rice-cake soup    27    1    0    0    0
+1229    Nutritious Rice-cake soup    27    1    0    0    0
+1230    Korean Gala Headdress    12    1    0    0    0
+1231    Goguryeo Headband    12    1    0    0    0
+1232    [Costume]Korean Gala Headdress    54    1    0    0    0
+1233    [Costume]Goguryeo Headband    54    1    0    0    0
+1234    [Costume]Chinese Gala Dress    54    1    0    0    0
+1235    [Costume]Korean Gala Dress    54    1    0    0    0
+1236    [Costume]Goguryeo Dress    54    1    0    0    0
+1237    [Costume]Sandy Dust Mask    11    1    0    0    0
+1238    [Costume]Sandy Dust Mask    54    1    0    0    0
+1239    X-Gen Card    56    1    0    0    0
+1240    Bamboo Leaf    27    1    0    0    0
+1241    Bamboo shoot    27    1    0    0    0
+1242    (S)Concentraion Potion(LV 1)    27    1    0    0    0
+1243    (S)Reflex Potion(LV 1)    27    1    0    0    0
+1244    (S)Vital Potion(LV 1)    27    1    0    0    0
+1245    (S)Sharpness Potion(LV 1)    27    1    0    0    0
+1246    (S)Manacondense Potion(LV 1)    27    1    0    0    0
+1247    (S)Vitalregen Potion(LV 1)    27    1    0    0    0
+1248    (S)Hardness Potion(LV 1)    27    1    0    0    0
+1249    (S)Strike Potion(LV 1)    27    1    0    0    0
+1250    (S)Concentraion Potion(LV 2)    27    1    0    0    0
+1251    (S)Reflex Potion(LV 2)    27    1    0    0    0
+1252    (S)Vital Potion(LV 2)    27    1    0    0    0
+1253    (S)Sharpness Potion(LV 2)    27    1    0    0    0
+1254    (S)Manacondense Potion(LV 2)    27    1    0    0    0
+1255    (S)Goodluck Potion[ALZ](LV 1)    27    1    0    0    0
+1256    (S)Vitalregen Potion(LV 2)    27    1    0    0    0
+1257    (S)Hardness Potion(LV 2)    27    1    0    0    0
+1258    (S)Strike Potion(LV 2)    27    1    0    0    0
+1259    (S)Goodluck Potion[ALZ](LV 2)    27    1    0    0    0
+1260    (S)Concentraion Potion(LV 3)    27    1    0    0    0
+1261    (S)Reflex Potion(LV 3)    27    1    0    0    0
+1262    (S)Vital Potion(LV 3)    27    1    0    0    0
+1263    (S)Sharpness Potion(LV 3)    27    1    0    0    0
+1264    (S)Manacondense Potion(LV 3)    27    1    0    0    0
+1265    (S)Vitalregen Potion(LV 3)    27    1    0    0    0
+1266    (S)Hardness Potion(LV 3)    27    1    0    0    0
+1267    (S)Strike Potion(LV 3)    27    1    0    0    0
+1268    Core Enhancer(Highest)    35    1    0    0    0
+1269    Life Capsule(LV2) TypeA    14    1    0    0    0
+1270    Life Capsule(LV2) TypeB    14    1    0    0    0
+1271    Life Capsule(LV3) TypeA    14    1    0    0    0
+1272    Life Capsule(LV3) TypeB    14    1    0    0    0
+1273    Anima Lune - Fortune Pig    51    1    0    0    0
+1274    Anima Lune - Golden Fortune Pig    51    1    0    0    0
+1275    Periodical Remote shop card    57    1    0    0    0
+1276    Capella(WA)    17    1    0    0    0
+1277    Capella(BL)    17    1    0    0    0
+1278    Capella(WI)    17    1    0    0    0
+1279    Capella(FA)    17    1    0    0    0
+1280    Capella(FS)    17    1    0    0    0
+1281    Capella(FB)    17    1    0    0    0
+1282    Procyon(WA)    17    1    0    0    0
+1283    Procyon(BL)    17    1    0    0    0
+1284    Procyon(WI)    17    1    0    0    0
+1285    Procyon(FA)    17    1    0    0    0
+1286    Procyon(FS)    17    1    0    0    0
+1287    Procyon(FB)    17    1    0    0    0
+1288    Battle suit Capella(WA)    54    1    0    0    0
+1289    Battle suit Capella(BL)    54    1    0    0    0
+1290    Battle suit Capella(WI)    54    1    0    0    0
+1291    Battle suit Capella(FA)    54    1    0    0    0
+1292    Battle suit Capella(FS)    54    1    0    0    0
+1293    Battle suit Capella(FB)    54    1    0    0    0
+1294    Battle suit Procyon(WA)    54    1    0    0    0
+1295    Battle suit Procyon(BL)    54    1    0    0    0
+1296    Battle suit Procyon(WI)    54    1    0    0    0
+1297    Battle suit Procyon(FA)    54    1    0    0    0
+1298    Battle suit Procyon(FS)    54    1    0    0    0
+1299    Battle suit Procyon(FB)    54    1    0    0    0
+1300    Portable FT Panel    58    1    0    0    0
+1301    Core Cube    34    1    0    0    0
+1302    Duplicate Ring 3    19    1    0    0    0
+1303    Chaos Box -Ticket    34    1    0    0    0
+1304    Chaos Box -Epaulette    34    1    0    0    0
+1305    Chaos Box -Avatar    34    1    0    0    0
+1306    Chaos Box -Core    34    1    0    0    0
+1307    Chaos Box -Extender    34    1    0    0    0
+1308    Chaos Box -Board    34    1    0    0    0
+1309    Fan    18    1    0    0    0
+1310    Chaos Lamp for Global service    34    1    0    0    0
+1311    Chaos Box -Free    34    1    0    0    0
+1312    Legacy Weapon    59    1    0    0    0
+1313    Honda Logo    18    1    0    0    0
+1314    Shadowtitanium Armour Suit (WA)    8    1    0    0    0
+1315    Shadowtitanium Armour Suit (FS)    8    1    0    0    0
+1316    Shadowtitanium Battle Suit (FB)    8    1    0    0    0
+1317    Shadowtitanium Battle Suit (FA)    8    1    0    0    0
+1318    Shadowtitanium Martial Suit (BL)    8    1    0    0    0
+1319    Shadowtitanium Martial Suit (WI)    8    1    0    0    0
+1320    Shadowtitanium Armour Gloves (WA)    9    1    0    0    0
+1321    Shadowtitanium Armour Gloves (FS)    9    1    0    0    0
+1322    Shadowtitanium Battle Gloves (FB)    9    1    0    0    0
+1323    Shadowtitanium Battle Gloves (FA)    9    1    0    0    0
+1324    Shadowtitanium Martial Gloves (BL)    9    1    0    0    0
+1325    Shadowtitanium Martial Gloves (WI)    9    1    0    0    0
+1326    Shadowtitanium Armour Boots (WA)    10    1    0    0    0
+1327    Shadowtitanium Armour Boots (FS)    10    1    0    0    0
+1328    Shadowtitanium Battle Boots (FB)    10    1    0    0    0
+1329    Shadowtitanium Battle Boots (FA)    10    1    0    0    0
+1330    Shadowtitanium Martial Boots (BL)    10    1    0    0    0
+1331    Shadowtitanium Martial Boots (WI)    10    1    0    0    0
+1332    Shadowtitanium Armour Helm (WA)    11    1    0    0    0
+1333    Shadowtitanium Armour Helm (FS)    11    1    0    0    0
+1334    Shadowtitanium Battle Helm (FB)    11    1    0    0    0
+1335    Shadowtitanium Battle Helm (FA)    11    1    0    0    0
+1336    Shadowtitanium Martial Helm (BL)    11    1    0    0    0
+1337    Shadowtitanium Martial Helm (WI)    11    1    0    0    0
+1338    Shadow Epualette of Guardian +5    17    1    0    0    0
+1339    Shadow Epualette of Fighter +5    17    1    0    0    0
+1340    Shadow Epualette of Sage +5    17    1    0    0    0
+1341    [Costume]Love Dad Yellow Shirt E    17    1    0    0    0
+1342    [Avatar]Love Dad Yellow Shirt    54    1    0    0    0
+1343    Anniversary Medal-Armour (Lv1)    34    1    0    0    0
+1344    Anniversary Medal-Armour (Lv2)    34    1    0    0    0
+1345    Anniversary Medal-Armour (Lv3)    34    1    0    0    0
+1346    Anniversary Medal-Battle (Lv1)    34    1    0    0    0
+1347    Anniversary Medal-Battle (Lv2)    34    1    0    0    0
+1348    Anniversary Medal-Battle (Lv3)    34    1    0    0    0
+1349    Anniversary Medal-Martial (Lv1)    34    1    0    0    0
+1350    Anniversary Medal-Martial (Lv2)    34    1    0    0    0
+1351    Anniversary Medal-Martial (Lv3)    34    1    0    0    0
+1352    Anniversary item (Bronze)    34    1    0    0    0
+1353    Anniversary item (Silver)    34    1    0    0    0
+1354    Anniversary item (Platium)    34    1    0    0    0
+1355    Anniversary item    34    1    0    0    0
+1356    Wedding Ring    15    1    0    0    0
+1357    [Costume] Happy Birthday Hood    54    1    0    0    0
+1358    Avatar- Happy Birthday Hood    11    1    0    0    0
+1359    Happy Birthday Bubble Dialogue    55    1    0    0    0
+1360    Happy Birthday Ring    15    1    0    0    0
+1361    Event Rudolph    18    1    0    0    0
+1362    Royal Fixer Lv 1    18    1    0    0    0
+1363    Royal Fixer Lv 2    18    1    0    0    0
+1364    Royal Fixer Lv 3    18    1    0    0    0
+1365    Royal Fixer Lv 4    18    1    0    0    0
+1366    Royal Fixer Lv 5    18    1    0    0    0
+1367    Miracle Key Lv 1    19    1    0    0    0
+1368    Miracle Key Lv 2    19    1    0    0    0
+1369    Miracle Key Lv 3    19    1    0    0    0
+1370    Miracle Key Lv 4    19    1    0    0    0
+1371    Miracle Key Lv 5    19    1    0    0    0
+1372    Rough Platinum    18    1    0    0    0
+1373    Santa's X-mas Sleigh    22    1    0    0    0
+1374    White Socks    34    1    0    0    0
+1375    Green Socks    34    1    0    0    0
+1376    Shiny Blue Socks    34    1    0    0    0
+1377    Santas Red Socks    34    1    0    0    0
+1378    [Costume] Santa Fury Epaulette    17    1    0    0    0
+1379    Gold Coin    18    1    0    0    0
+1380    Silver Coin    18    1    0    0    0
+1381    Copper Coin    18    1    0    0    0
+1382    Blessing Bead - Plus    38    1    0    0    0
+1383    Chaos Box - Arena    34    1    0    0    0
+1384    Spring Bamboo shoot    14    1    0    0    0
+1385    Soft Bamboo shoot    27    1    0    0    0
+1386    Tasty Bamboo shoot    27    1    0    0    0
+1387    Spring Bamboo Leaf (Small)    27    1    0    0    0
+1388    Spring Bamboo Leaf (Big)    27    1
